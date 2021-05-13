@@ -1,0 +1,17 @@
+
+*{
+  box-sizing:border-box;
+  padding :0;
+  margin:0;
+  background-color: #d2dbdd;
+  text-align: center;
+  margin-top: 100px;
+
+}
+.but{
+  background-color:cadetblue ;
+  font-size: 40px;
+  border-radius: 10%;
+  text-decoration: cadetblue;
+  border-width: 3%;
+}
